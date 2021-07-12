@@ -1,4 +1,8 @@
-# mmaths
+# mmaths (miscellaneous maths)
+Why use mmaths over cmath:
+sometimes cmath cant be usesd in vertain ports of c++/c where the file may not be availiable
+or you just need a smaller library, even if you just need a self contained project, without any external files, well use mmaths, else just use cmath what are you doing!?
+
 Instructions for use:
 
 FOR C:
